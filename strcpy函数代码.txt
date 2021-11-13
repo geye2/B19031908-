@@ -9,3 +9,4 @@ char * strcpy(char *dst,const char *src)   //[1]
     return ret;
 }
 /*B19031908戈业*/
+/*strcpy函数*/
